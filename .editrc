@@ -1,2 +1,5 @@
-edit on
+# This breaks Homebrew: https://github.com/Homebrew/brew/issues/560
+# I'm no longer sure why I needed it in the first place.
+#edit on
+
 bind ^R em-inc-search-prev
